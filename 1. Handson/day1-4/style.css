@@ -1,0 +1,41 @@
+h2 {
+	color: aqua;
+}
+
+h1,
+h2,
+h3{
+	font-family: sans-serif;
+}
+
+article p{
+	font-size: 30px;
+}
+
+#small-link {
+	font-size: 5 px;
+}
+
+.big-link {
+	font-size: 50px;
+}
+
+h3 {
+	color : rgba(235, 114, 101, 0.526);
+}
+
+h4 {
+	color : #44aaff;
+}
+
+#full-name{
+	font-size: 10px;
+}
+
+.nama-lengap{
+	font-size: 20px;
+}
+
+p {
+	font-size: 30px;
+}

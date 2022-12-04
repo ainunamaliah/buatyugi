@@ -1,0 +1,25 @@
+{
+  "guests": [
+    {
+      "id": 1,
+      "name": "Moon Young",
+      "phone": "234567",
+      "email": "moon.young@mail.com",
+      "address": "Bandung"
+    },
+    {
+      "id": "l88l73j2",
+      "name": "Ainun ",
+      "phone": "089639666680",
+      "email": "ainun@gmail.com",
+      "address": "Depok"
+    },
+    {
+      "id": "l88l7bpv",
+      "name": "Gabriel",
+      "phone": "086274862389",
+      "email": "gabriel@gmail.com",
+      "address": "Bekasi Timur"
+    }
+  ]
+}
